@@ -28,4 +28,4 @@ function solution(N) {
     return longestGap;
 }
 //Calling function
-solution(9);
+solution();

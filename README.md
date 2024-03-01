@@ -52,3 +52,22 @@ Assume that:
 N and K are integers within the range [0..100];
 each element of array A is an integer within the range [−1,000..1,000].
 In your solution, focus on correctness. The performance of your solution will not be the focus of the assessment.
+
+# Combining names python
+Combine strings function
+Create a function named (combine_names) that accepts two parameters (first and last name). The function should return the full name.
+
+Example:
+
+combine_names('James', 'Stevens')
+returns:
+
+'James Stevens'
+
+# Solution.py
+If/else syntax debug
+While making a game, your partner, Greg, decided to create a function to check if the user is still alive called checkAlive/CheckAlive/check_alive. Unfortunately, Greg made some errors while creating the function.
+
+checkAlive/CheckAlive/check_alive should return true if the player's health is greater than 0 or false if it is 0 or below.
+
+The function receives one parameter health which will always be a whole number between -10 and 10.
